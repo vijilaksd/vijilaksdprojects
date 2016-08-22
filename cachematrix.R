@@ -14,7 +14,7 @@ makeCacheMatrix <- function(x = matrix()) {
        setInverse = setInverse,
        getInverse = getInverse)
 
-}undebug(ls)
+}
 
 
 ## This second function is used to create a cache for the inverse of the "special matrix" created from the function above
